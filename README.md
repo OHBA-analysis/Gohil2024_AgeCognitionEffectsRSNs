@@ -1,6 +1,6 @@
 # Effects of age on resting-state cortical networks
 
-Scripts for reproducing the results in [Gohil et al. (2024)](https://www.biorxiv.org/content/10.1101/2024.09.23.614004v1).
+Scripts for reproducing the results in [Gohil et al. (2026)](https://onlinelibrary.wiley.com/doi/10.1002/hbm.70516).
 
 The network data is provided in:
 
